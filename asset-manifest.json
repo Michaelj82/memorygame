@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/memorygame/static/js/main.f71990e7.js",
+    "static/media/Galadriel.jpg": "/memorygame/static/media/Galadriel.f2e91ea2da3cb8afeed4.jpg",
+    "static/media/samwise.jpg": "/memorygame/static/media/samwise.de8df443ba727e3f031a.jpg",
+    "static/media/frodo.jpg": "/memorygame/static/media/frodo.83f7ed1a46ad21ff3403.jpg",
+    "static/media/sauron.jpg": "/memorygame/static/media/sauron.3268149d10d9457663dd.jpg",
+    "index.html": "/memorygame/index.html",
+    "main.f71990e7.js.map": "/memorygame/static/js/main.f71990e7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f71990e7.js"
+  ]
+}
