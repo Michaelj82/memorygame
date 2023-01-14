@@ -1,14 +1,25 @@
 {
   "files": {
-    "main.js": "/memorygame/static/js/main.f71990e7.js",
+    "main.css": "/memorygame/static/css/main.7d4d2b8e.css",
+    "main.js": "/memorygame/static/js/main.9b4a0023.js",
     "static/media/Galadriel.jpg": "/memorygame/static/media/Galadriel.f2e91ea2da3cb8afeed4.jpg",
+    "static/media/aragorn.jpg": "/memorygame/static/media/aragorn.94520e0100adfabf6bb0.jpg",
+    "static/media/boromir.jpg": "/memorygame/static/media/boromir.d9d11b47695c237c9a7d.jpg",
+    "static/media/gollum.jpg": "/memorygame/static/media/gollum.9986b169fd6e20afb3a9.jpg",
     "static/media/samwise.jpg": "/memorygame/static/media/samwise.de8df443ba727e3f031a.jpg",
+    "static/media/gandalf.jpg": "/memorygame/static/media/gandalf.f7f3c67c232e6867cee1.jpg",
     "static/media/frodo.jpg": "/memorygame/static/media/frodo.83f7ed1a46ad21ff3403.jpg",
     "static/media/sauron.jpg": "/memorygame/static/media/sauron.3268149d10d9457663dd.jpg",
+    "static/media/legolas.jpg": "/memorygame/static/media/legolas.da244a8e925586935404.jpg",
+    "static/media/bilbo.jpg": "/memorygame/static/media/bilbo.8753f19726478f285b51.jpg",
+    "static/media/gimli.jpg": "/memorygame/static/media/gimli.b73d87a1beca9c208c95.jpg",
+    "static/media/merry.jpg": "/memorygame/static/media/merry.cb09ba105ded968ad1c3.jpg",
     "index.html": "/memorygame/index.html",
-    "main.f71990e7.js.map": "/memorygame/static/js/main.f71990e7.js.map"
+    "main.7d4d2b8e.css.map": "/memorygame/static/css/main.7d4d2b8e.css.map",
+    "main.9b4a0023.js.map": "/memorygame/static/js/main.9b4a0023.js.map"
   },
   "entrypoints": [
-    "static/js/main.f71990e7.js"
+    "static/css/main.7d4d2b8e.css",
+    "static/js/main.9b4a0023.js"
   ]
 }
