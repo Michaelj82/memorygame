@@ -4,17 +4,21 @@ html, body{
     margin: 0;
 
     display: grid;
-    grid-template-rows: 1fr 9fr;
+    grid-template-rows: 3fr 9fr;
+
+    background-color: #976600;
 }
 
 #header{
     grid-area: 1fr;
 }
+#title{
+    margin: 10px;
+}
 
 #gameboard{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-area: 1fr;
     height: 100%;
     width: 100%;
@@ -23,14 +27,21 @@ html, body{
 }
 
 .card{
-    border: solid;
-    grid-area: 1fr / 1fr ;
-    height: 200px;
-    width: auto;
+    grid-area: 1fr;
     overflow: hidden;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 15px;
+    background-color: burlywood;
+    transition: box-shadow 0.1s;
+}
+
+.card:hover{
+    box-shadow: 0 0 6px rgb(34,139,34);
 }
 
 .card > img{
+    border-radius: 15px;
     height: 100%;
     width: 100%
 }
@@ -47,11 +58,30 @@ html, body{
     align-items: center;
 
     width: 25%;
-    height:auto;
+    height:100%;
     transition: background-color 0.5s;
-    
+    margin: 10px;
+
+    padding: 10px;
+    border-radius: 15px;
+
+}
+
+#header > #bestscore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 25%;
+    height: 100%;
+    transition: background-color 0.5s;
+    margin: 10px;
+
+    padding: 10px;
+
+    border-radius: 15px;
 
 }
 .fade{
-    background-color: pink;
+    background-color: rgb(34,139,34);
 }

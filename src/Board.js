@@ -61,10 +61,22 @@ export default function Board(){
         },500)
     }, [numberCorrect])
 
+    useEffect(() => {
+        let header = document.getElementById('bestscore')
+        header.classList.add('fade')
+        setTimeout(function(){
+            header.classList.remove('fade')
+        },500)
+    }, [bestScore])
+
 
     return(
         <div>
             <div id="header">
+                <div id="title">
+                    <h2>Lord of the Rings Memory Game</h2>
+                    <p>Get points by clicking on an image, but don't click on any more than once!</p>
+                </div>
                 <div id='numbercorrect'>
                     Number in a row correct: {numberCorrect}
                 </div>
