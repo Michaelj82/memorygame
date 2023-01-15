@@ -1,2 +1,0 @@
-body,html{display:grid;grid-template-rows:1fr 9fr;height:100vh;margin:0;width:100vw}#header{grid-area:1fr}#gameboard{display:grid;grid-area:1fr;grid-template-columns:1fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr 1fr;height:100%;width:100%}.card{border:solid;grid-area:1fr/1fr;overflow:hidden}.card,.card>img{height:200px;width:auto}
-/*# sourceMappingURL=main.7d4d2b8e.css.map*/
