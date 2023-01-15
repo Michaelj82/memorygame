@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memorygame/static/css/main.38b6b842.css",
-    "main.js": "/memorygame/static/js/main.e1134c16.js",
+    "main.css": "/memorygame/static/css/main.e60fc7d7.css",
+    "main.js": "/memorygame/static/js/main.0b6e7c00.js",
     "static/media/Galadriel.jpg": "/memorygame/static/media/Galadriel.f2e91ea2da3cb8afeed4.jpg",
     "static/media/aragorn.jpg": "/memorygame/static/media/aragorn.94520e0100adfabf6bb0.jpg",
     "static/media/boromir.jpg": "/memorygame/static/media/boromir.d9d11b47695c237c9a7d.jpg",
@@ -15,11 +15,11 @@
     "static/media/gimli.jpg": "/memorygame/static/media/gimli.b73d87a1beca9c208c95.jpg",
     "static/media/merry.jpg": "/memorygame/static/media/merry.cb09ba105ded968ad1c3.jpg",
     "index.html": "/memorygame/index.html",
-    "main.38b6b842.css.map": "/memorygame/static/css/main.38b6b842.css.map",
-    "main.e1134c16.js.map": "/memorygame/static/js/main.e1134c16.js.map"
+    "main.e60fc7d7.css.map": "/memorygame/static/css/main.e60fc7d7.css.map",
+    "main.0b6e7c00.js.map": "/memorygame/static/js/main.0b6e7c00.js.map"
   },
   "entrypoints": [
-    "static/css/main.38b6b842.css",
-    "static/js/main.e1134c16.js"
+    "static/css/main.e60fc7d7.css",
+    "static/js/main.0b6e7c00.js"
   ]
 }
